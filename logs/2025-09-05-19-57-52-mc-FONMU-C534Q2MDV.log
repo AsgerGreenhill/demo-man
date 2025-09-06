@@ -1,0 +1,20 @@
+2025-09-05 19:57:52,522 : kivy : deps: Successfully imported "kivy_deps.gstreamer" 0.3.3
+2025-09-05 19:57:52,522 : kivy : deps: Successfully imported "kivy_deps.angle" 0.3.3
+2025-09-05 19:57:52,522 : kivy : deps: Successfully imported "kivy_deps.glew" 0.3.1
+2025-09-05 19:57:52,522 : kivy : deps: Successfully imported "kivy_deps.sdl2" 0.6.0
+2025-09-05 19:57:52,522 : kivy : Kivy: v2.2.1
+2025-09-05 19:57:52,522 : kivy : Kivy: Installed at "C:\mpf\venv\lib\site-packages\kivy\__init__.py"
+2025-09-05 19:57:52,522 : kivy : Python: v3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]
+2025-09-05 19:57:52,522 : kivy : Python: Interpreter at "C:\mpf\venv\Scripts\python.exe"
+2025-09-05 19:57:52,529 : kivy : Factory: 190 symbols loaded
+2025-09-05 19:57:52,594 : kivy : ImageLoaderFFPy: Using ffpyplayer 4.5.1
+2025-09-05 19:57:52,594 : kivy : Image: Providers: img_tex, img_dds, img_sdl2, img_pil, img_ffpyplayer 
+2025-09-05 19:57:52,656 : kivy : VideoGstplayer: Using Gstreamer 1.18.5.0
+2025-09-05 19:57:52,657 : kivy : Video: Provider: gstplayer
+2025-09-05 19:57:52,677 : root : Loading MPF-MC controller
+2025-09-05 19:57:52,678 : YamlMultifileConfigLoader : Machine config file #1: config
+2025-09-05 19:57:52,678 : ConfigProcessor : Config file in cache changed: C:\mpf\mpf-examples-dev\demo_man\config\config
+2025-09-05 19:57:52,679 : ConfigProcessor : Loading config from file C:\mpf\venv\lib\site-packages\mpfmc\mcconfig.yaml.
+2025-09-05 19:57:52,682 : ConfigProcessor : Loading config: C:\mpf\venv\lib\site-packages\mpfmc\mcconfig.yaml
+2025-09-05 19:57:52,682 : ConfigProcessor : Loading config from file C:\mpf\mpf-examples-dev\demo_man\config\config.
+2025-09-05 19:57:52,683 : ConfigProcessor : Loading config: C:\mpf\mpf-examples-dev\demo_man\config\config

@@ -1,0 +1,111 @@
+2025-09-05 19:46:29,628 : INFO : root : Loading config.
+2025-09-05 19:46:29,630 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-09-05 19:46:29,630 : WARNING : ConfigProcessor : Config file in cache changed: C:\mpf\mpf-examples-dev\demo_man\config\config.yaml
+2025-09-05 19:46:29,631 : INFO : ConfigProcessor : Loading config from file C:\mpf\venv\lib\site-packages\mpf\mpfconfig.yaml.
+2025-09-05 19:46:29,635 : INFO : ConfigProcessor : Loading config: C:\mpf\venv\lib\site-packages\mpf\mpfconfig.yaml
+2025-09-05 19:46:29,635 : INFO : ConfigProcessor : Loading config from file C:\mpf\mpf-examples-dev\demo_man\config\config.yaml.
+2025-09-05 19:46:29,636 : INFO : ConfigProcessor : Loading config: C:\mpf\mpf-examples-dev\demo_man\config\config.yaml
+2025-09-05 19:46:29,637 : INFO : ConfigProcessor : Config file cache created: C:\Users\Asger\AppData\Local\Temp\a4ba778c76b5e188585c7949537932e0.mpf_cache
+2025-09-05 19:46:29,668 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\28e07bc42b06fdf232525503b109746b.mpf_cache
+2025-09-05 19:46:29,669 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d5f522cce92d708c1e7c6f696d149cc3.mpf_cache
+2025-09-05 19:46:29,669 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\28e07bc42b06fdf232525503b109746b.mpf_cache
+2025-09-05 19:46:29,669 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d62bb05c546c94a6e60a7026e75040b8.mpf_cache
+2025-09-05 19:46:29,670 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\ced231c6d4e1b212af086a4d454edac8.mpf_cache
+2025-09-05 19:46:29,670 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\fa18a7ca6eebce61697f17dd2796d8a7.mpf_cache
+2025-09-05 19:46:29,670 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d89b40e1ffeb17b5175ca51875794db2.mpf_cache
+2025-09-05 19:46:29,670 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\bc9aed5c3026b95c3a74d20b7378d3c7.mpf_cache
+2025-09-05 19:46:29,671 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\1be97b2a1540b92753960383ff3b0288.mpf_cache
+2025-09-05 19:46:29,671 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\6c1409e683968dde01b1fc63d63ac592.mpf_cache
+2025-09-05 19:46:29,671 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\8223d052fc9ca5690b63b354851a36a5.mpf_cache
+2025-09-05 19:46:29,671 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\debcdd3dc7951208211536df41e93144.mpf_cache
+2025-09-05 19:46:29,671 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\3ae823d2e6893dd85ae0a2de015404bb.mpf_cache
+2025-09-05 19:46:29,672 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\472617138d66fbc89b03e7902752e0fc.mpf_cache
+2025-09-05 19:46:29,672 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\4401881d8e380e4e7ee4ef63814924e9.mpf_cache
+2025-09-05 19:46:29,672 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\f366ea536c1338380b17285e8368db9c.mpf_cache
+2025-09-05 19:46:29,672 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d23c839a1143e31e3b272f7aada46944.mpf_cache
+2025-09-05 19:46:29,673 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\6c81e91f819b9e966c204cf18d22e08c.mpf_cache
+2025-09-05 19:46:29,673 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\9771b12f542ed65db2178e376ecbbcfb.mpf_cache
+2025-09-05 19:46:29,673 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\add7530db97d411bdd347a444f1b85cd.mpf_cache
+2025-09-05 19:46:29,673 : INFO : Machine : Mission Pinball Framework Core Engine v0.57.3
+2025-09-05 19:46:29,673 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2025-09-05-19-46-29-mpf-FONMU-C534Q2MDV.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False}
+2025-09-05 19:46:29,673 : INFO : Machine : MPF path: C:\mpf\venv\lib\site-packages\mpf
+2025-09-05 19:46:29,673 : INFO : Machine : Machine path: C:\mpf\mpf-examples-dev\demo_man
+2025-09-05 19:46:29,673 : INFO : Machine : Platform: win32
+2025-09-05 19:46:29,673 : INFO : Machine : Python executable location: C:\mpf\venv\Scripts\python.exe
+2025-09-05 19:46:29,673 : INFO : Machine : Python version: 3.9.13 (64-bit)
+2025-09-05 19:46:29,674 : INFO : Machine : Initializing MPF...
+2025-09-05 19:46:29,768 : INFO : P-Roc : Connecting to P-ROC
+2025-09-05 19:46:30,126 : INFO : P-Roc : Successfully connected to P-ROC/P3-ROC. Firmware Version: 1. Firmware Revision: 22. Hardware Board ID: 0
+2025-09-05 19:46:30,126 : WARNING : P-Roc : Consider upgrading the firmware of your P/P3-Roc to at least 2.14. Your version contains known bugs. See: https://missionpinball.org/logs
+2025-09-05 19:46:30,127 : INFO : EventManager : Event: ======'machine_var_p_roc_version'====== Args={'value': 1, 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,127 : INFO : EventManager : Event: ======'machine_var_p_roc_revision'====== Args={'value': 22, 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,127 : INFO : EventManager : Event: ======'machine_var_p_roc_hardware_version'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,127 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,155 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,155 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.57.3', 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,155 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.57.3, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,155 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.9.13', 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,160 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-10-10.0.26100-SP0', 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,160 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,160 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '10', 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,160 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26100', 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,160 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2025-09-05 19:46:30,160 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2025-09-05 19:46:30,166 : ERROR : asyncio : Exception in callback EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...our config.')>) at C:\mpf\venv\lib\site-packages\mpf\core\events.py:124
+handle: <Handle EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...our config.')>) at C:\mpf\venv\lib\site-packages\mpf\core\events.py:124>
+Traceback (most recent call last):
+  File "C:\Users\Asger\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\mpf\venv\lib\site-packages\mpf\core\events.py", line 127, in _async_handler_done
+    future.result()
+  File "C:\mpf\venv\lib\site-packages\mpf\core\device_manager.py", line 88, in _load_device_modules
+    self.load_devices_config(validate=True)
+  File "C:\mpf\venv\lib\site-packages\mpf\core\device_manager.py", line 146, in load_devices_config
+    config[device_name] = collection[device_name].validate_and_parse_config(config[device_name], False)
+  File "C:\mpf\venv\lib\site-packages\mpf\devices\switch.py", line 89, in validate_and_parse_config
+    config = super().validate_and_parse_config(config, is_mode_config, debug_prefix)
+  File "C:\mpf\venv\lib\site-packages\mpf\core\device.py", line 108, in validate_and_parse_config
+    self.machine.config_validator.validate_config(
+  File "C:\mpf\venv\lib\site-packages\mpf\core\config_validator.py", line 164, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+  File "C:\mpf\venv\lib\site-packages\mpf\core\config_validator.py", line 214, in _validate_config
+    processed_config[k] = self.validate_config_item(
+  File "C:\mpf\venv\lib\site-packages\mpf\core\config_validator.py", line 243, in validate_config_item
+    return self.validate_item(item, validation, validation_failure_info)
+  File "C:\mpf\venv\lib\site-packages\mpf\core\config_validator.py", line 686, in validate_item
+    return self.validator_list[validator](item, validation_failure_info=validation_failure_info, param=param)
+  File "C:\mpf\venv\lib\site-packages\mpf\core\config_validator.py", line 400, in _validate_type_machine
+    raise self.validation_error(item, validation_failure_info,
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Config validation error: Entry switches:s_trough1:playfield = "playfield" is not valid. Device "playfield" not found in "playfields:" section in your config. Error Code: CFE-ConfigValidator-6 (https://missionpinball.org/logs)
+2025-09-05 19:46:30,192 : INFO : Machine : Starting the main run loop with active modes: []
+2025-09-05 19:46:30,192 : WARNING : Machine : Attract mode is not active, game will not be playable. Please check your attract mode configuration.
+2025-09-05 19:46:30,192 : INFO : Machine : Shutting down...
+2025-09-05 19:46:30,192 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2025-09-05 19:46:31,192 : ERROR : Machine : Runtime Exception
+Traceback (most recent call last):
+  File "C:\mpf\venv\lib\site-packages\mpf\core\machine.py", line 808, in _run_loop
+    raise self._exception['exception']
+  File "C:\Users\Asger\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\mpf\venv\lib\site-packages\mpf\core\events.py", line 127, in _async_handler_done
+    future.result()
+  File "C:\mpf\venv\lib\site-packages\mpf\core\device_manager.py", line 88, in _load_device_modules
+    self.load_devices_config(validate=True)
+  File "C:\mpf\venv\lib\site-packages\mpf\core\device_manager.py", line 146, in load_devices_config
+    config[device_name] = collection[device_name].validate_and_parse_config(config[device_name], False)
+  File "C:\mpf\venv\lib\site-packages\mpf\devices\switch.py", line 89, in validate_and_parse_config
+    config = super().validate_and_parse_config(config, is_mode_config, debug_prefix)
+  File "C:\mpf\venv\lib\site-packages\mpf\core\device.py", line 108, in validate_and_parse_config
+    self.machine.config_validator.validate_config(
+  File "C:\mpf\venv\lib\site-packages\mpf\core\config_validator.py", line 164, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+  File "C:\mpf\venv\lib\site-packages\mpf\core\config_validator.py", line 214, in _validate_config
+    processed_config[k] = self.validate_config_item(
+  File "C:\mpf\venv\lib\site-packages\mpf\core\config_validator.py", line 243, in validate_config_item
+    return self.validate_item(item, validation, validation_failure_info)
+  File "C:\mpf\venv\lib\site-packages\mpf\core\config_validator.py", line 686, in validate_item
+    return self.validator_list[validator](item, validation_failure_info=validation_failure_info, param=param)
+  File "C:\mpf\venv\lib\site-packages\mpf\core\config_validator.py", line 400, in _validate_type_machine
+    raise self.validation_error(item, validation_failure_info,
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Config validation error: Entry switches:s_trough1:playfield = "playfield" is not valid. Device "playfield" not found in "playfields:" section in your config. Error Code: CFE-ConfigValidator-6 (https://missionpinball.org/logs)
+2025-09-05 19:46:38,193 : INFO : root : MPF run loop ended.

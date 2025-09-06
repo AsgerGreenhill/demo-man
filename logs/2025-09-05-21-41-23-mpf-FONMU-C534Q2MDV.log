@@ -1,0 +1,60 @@
+2025-09-05 21:41:23,769 : INFO : root : Loading config.
+2025-09-05 21:41:23,769 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-09-05 21:41:23,769 : WARNING : ConfigProcessor : Config file in cache changed: C:\mpf\mpf-examples-dev\demo_man\config\config.yaml
+2025-09-05 21:41:23,769 : INFO : ConfigProcessor : Loading config from file C:\mpf\venv\lib\site-packages\mpf\mpfconfig.yaml.
+2025-09-05 21:41:23,769 : INFO : ConfigProcessor : Loading config: C:\mpf\venv\lib\site-packages\mpf\mpfconfig.yaml
+2025-09-05 21:41:23,769 : INFO : ConfigProcessor : Loading config from file C:\mpf\mpf-examples-dev\demo_man\config\config.yaml.
+2025-09-05 21:41:23,769 : INFO : ConfigProcessor : Loading config: C:\mpf\mpf-examples-dev\demo_man\config\config.yaml
+2025-09-05 21:41:23,785 : INFO : ConfigProcessor : Loading config: C:\mpf\mpf-examples-dev\demo_man\config\hardware.yaml
+2025-09-05 21:41:23,791 : INFO : ConfigProcessor : Loading config: C:\mpf\mpf-examples-dev\demo_man\config\shots.yaml
+2025-09-05 21:41:23,791 : INFO : ConfigProcessor : Loading config: C:\mpf\mpf-examples-dev\demo_man\config\keyboard.yaml
+2025-09-05 21:41:23,791 : INFO : ConfigProcessor : Config file cache created: C:\Users\Asger\AppData\Local\Temp\a4ba778c76b5e188585c7949537932e0.mpf_cache
+2025-09-05 21:41:23,832 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\28e07bc42b06fdf232525503b109746b.mpf_cache
+2025-09-05 21:41:23,833 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d5f522cce92d708c1e7c6f696d149cc3.mpf_cache
+2025-09-05 21:41:23,833 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d62bb05c546c94a6e60a7026e75040b8.mpf_cache
+2025-09-05 21:41:23,833 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\15111c5ed4abe468683ed8b5e624919d.mpf_cache
+2025-09-05 21:41:23,834 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\6c5b2bed571f675ef4a6f117d164d549.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\329520af4c53f16312de95e22bab2d9b.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\09b43c5b700e26dcca8244f4580c23d5.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\a6173bee294ebdb577b914e255ea8258.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\07e57c31535919614c39951e74823d59.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d2c32dbde637ae0ada0d7d1fe223a4cd.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\ced231c6d4e1b212af086a4d454edac8.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\fa18a7ca6eebce61697f17dd2796d8a7.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d89b40e1ffeb17b5175ca51875794db2.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\bc9aed5c3026b95c3a74d20b7378d3c7.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\1be97b2a1540b92753960383ff3b0288.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\6c1409e683968dde01b1fc63d63ac592.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\8223d052fc9ca5690b63b354851a36a5.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\debcdd3dc7951208211536df41e93144.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\3ae823d2e6893dd85ae0a2de015404bb.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\472617138d66fbc89b03e7902752e0fc.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\4401881d8e380e4e7ee4ef63814924e9.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\f366ea536c1338380b17285e8368db9c.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d23c839a1143e31e3b272f7aada46944.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\6c81e91f819b9e966c204cf18d22e08c.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\9771b12f542ed65db2178e376ecbbcfb.mpf_cache
+2025-09-05 21:41:23,835 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\add7530db97d411bdd347a444f1b85cd.mpf_cache
+2025-09-05 21:41:23,835 : INFO : Machine : Mission Pinball Framework Core Engine v0.57.3
+2025-09-05 21:41:23,835 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2025-09-05-21-41-23-mpf-FONMU-C534Q2MDV.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False}
+2025-09-05 21:41:23,835 : INFO : Machine : MPF path: C:\mpf\venv\lib\site-packages\mpf
+2025-09-05 21:41:23,835 : INFO : Machine : Machine path: C:\mpf\mpf-examples-dev\demo_man
+2025-09-05 21:41:23,835 : INFO : Machine : Platform: win32
+2025-09-05 21:41:23,835 : INFO : Machine : Python executable location: C:\mpf\venv\Scripts\python.exe
+2025-09-05 21:41:23,835 : INFO : Machine : Python version: 3.9.13 (64-bit)
+2025-09-05 21:41:23,835 : INFO : Machine : Initializing MPF...
+2025-09-05 21:41:23,934 : INFO : P-Roc : Connecting to P-ROC
+2025-09-05 21:41:25,463 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-05 21:41:25,463 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-05 21:41:27,994 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-05 21:41:27,994 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-05 21:41:30,537 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-05 21:41:30,537 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-05 21:41:33,083 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-05 21:41:33,083 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-05 21:41:35,612 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-05 21:41:35,612 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-05 21:41:38,128 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-05 21:41:38,128 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-05 21:41:40,650 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-05 21:41:40,650 : INFO : P-Roc : Will retry creating PinPROC in 1s.

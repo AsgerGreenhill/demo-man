@@ -1,0 +1,218 @@
+2025-09-04 22:45:28,239 : INFO : root : Loading config.
+2025-09-04 22:45:28,244 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-09-04 22:45:28,245 : WARNING : ConfigProcessor : Config file in cache changed: C:\mpf\mpf-examples-dev\demo_man\config\config.yaml
+2025-09-04 22:45:28,245 : INFO : ConfigProcessor : Loading config from file C:\mpf\venv\lib\site-packages\mpf\mpfconfig.yaml.
+2025-09-04 22:45:28,260 : INFO : ConfigProcessor : Loading config: C:\mpf\venv\lib\site-packages\mpf\mpfconfig.yaml
+2025-09-04 22:45:28,260 : INFO : ConfigProcessor : Loading config from file C:\mpf\mpf-examples-dev\demo_man\config\config.yaml.
+2025-09-04 22:45:28,261 : INFO : ConfigProcessor : Loading config: C:\mpf\mpf-examples-dev\demo_man\config\config.yaml
+2025-09-04 22:45:28,274 : INFO : ConfigProcessor : Loading config: C:\mpf\mpf-examples-dev\demo_man\config\hardware.yaml
+2025-09-04 22:45:28,275 : INFO : ConfigProcessor : Loading config: C:\mpf\mpf-examples-dev\demo_man\config\shots.yaml
+2025-09-04 22:45:28,277 : INFO : ConfigProcessor : Loading config: C:\mpf\mpf-examples-dev\demo_man\config\keyboard.yaml
+2025-09-04 22:45:28,278 : INFO : ConfigProcessor : Config file cache created: C:\Users\Asger\AppData\Local\Temp\a4ba778c76b5e188585c7949537932e0.mpf_cache
+2025-09-04 22:45:28,312 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\28e07bc42b06fdf232525503b109746b.mpf_cache
+2025-09-04 22:45:28,313 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d5f522cce92d708c1e7c6f696d149cc3.mpf_cache
+2025-09-04 22:45:28,313 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d62bb05c546c94a6e60a7026e75040b8.mpf_cache
+2025-09-04 22:45:28,318 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\15111c5ed4abe468683ed8b5e624919d.mpf_cache
+2025-09-04 22:45:28,319 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\6c5b2bed571f675ef4a6f117d164d549.mpf_cache
+2025-09-04 22:45:28,319 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\329520af4c53f16312de95e22bab2d9b.mpf_cache
+2025-09-04 22:45:28,320 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\09b43c5b700e26dcca8244f4580c23d5.mpf_cache
+2025-09-04 22:45:28,320 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\a6173bee294ebdb577b914e255ea8258.mpf_cache
+2025-09-04 22:45:28,321 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\07e57c31535919614c39951e74823d59.mpf_cache
+2025-09-04 22:45:28,321 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d2c32dbde637ae0ada0d7d1fe223a4cd.mpf_cache
+2025-09-04 22:45:28,322 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\ced231c6d4e1b212af086a4d454edac8.mpf_cache
+2025-09-04 22:45:28,323 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\fa18a7ca6eebce61697f17dd2796d8a7.mpf_cache
+2025-09-04 22:45:28,326 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d89b40e1ffeb17b5175ca51875794db2.mpf_cache
+2025-09-04 22:45:28,326 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\bc9aed5c3026b95c3a74d20b7378d3c7.mpf_cache
+2025-09-04 22:45:28,327 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\1be97b2a1540b92753960383ff3b0288.mpf_cache
+2025-09-04 22:45:28,330 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\6c1409e683968dde01b1fc63d63ac592.mpf_cache
+2025-09-04 22:45:28,331 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\8223d052fc9ca5690b63b354851a36a5.mpf_cache
+2025-09-04 22:45:28,331 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\debcdd3dc7951208211536df41e93144.mpf_cache
+2025-09-04 22:45:28,333 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\3ae823d2e6893dd85ae0a2de015404bb.mpf_cache
+2025-09-04 22:45:28,333 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\472617138d66fbc89b03e7902752e0fc.mpf_cache
+2025-09-04 22:45:28,334 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\4401881d8e380e4e7ee4ef63814924e9.mpf_cache
+2025-09-04 22:45:28,334 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\f366ea536c1338380b17285e8368db9c.mpf_cache
+2025-09-04 22:45:28,335 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\d23c839a1143e31e3b272f7aada46944.mpf_cache
+2025-09-04 22:45:28,335 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\6c81e91f819b9e966c204cf18d22e08c.mpf_cache
+2025-09-04 22:45:28,335 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\9771b12f542ed65db2178e376ecbbcfb.mpf_cache
+2025-09-04 22:45:28,336 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\add7530db97d411bdd347a444f1b85cd.mpf_cache
+2025-09-04 22:45:28,337 : INFO : Machine : Mission Pinball Framework Core Engine v0.57.3
+2025-09-04 22:45:28,337 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2025-09-04-22-45-28-mpf-FONMU-C534Q2MDV.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False}
+2025-09-04 22:45:28,337 : INFO : Machine : MPF path: C:\mpf\venv\lib\site-packages\mpf
+2025-09-04 22:45:28,337 : INFO : Machine : Machine path: C:\mpf\mpf-examples-dev\demo_man
+2025-09-04 22:45:28,337 : INFO : Machine : Platform: win32
+2025-09-04 22:45:28,337 : INFO : Machine : Python executable location: C:\mpf\venv\Scripts\python.exe
+2025-09-04 22:45:28,337 : INFO : Machine : Python version: 3.9.13 (64-bit)
+2025-09-04 22:45:28,338 : INFO : Machine : Initializing MPF...
+2025-09-04 22:45:28,478 : INFO : P-Roc : Connecting to P-ROC
+2025-09-04 22:45:29,072 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 89 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:29,072 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:31,594 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:31,594 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:34,116 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:34,116 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:35,701 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 28 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:35,701 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:38,221 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:38,221 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:40,737 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:40,737 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:43,251 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:43,251 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:44,864 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 20 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:44,864 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:47,381 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:47,381 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:49,901 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:49,901 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:52,422 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:52,422 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:54,940 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:54,940 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:57,457 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:57,457 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:45:59,044 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 10 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:45:59,044 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:01,558 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:01,558 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:04,068 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:04,068 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:06,584 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:06,584 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:09,093 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:09,093 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:11,605 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:11,605 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:14,119 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:14,119 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:16,630 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:16,630 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:18,220 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 39 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:18,221 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:20,733 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:20,733 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:23,254 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:23,254 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:24,839 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 25 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:24,839 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:27,359 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:27,359 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:28,944 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 31 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:28,944 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:31,456 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:31,456 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:33,962 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:33,962 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:36,483 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:36,483 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:38,989 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:38,989 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:40,580 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 39 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:40,580 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:43,089 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:43,089 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:45,595 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:45,595 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:47,194 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 37 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:47,194 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:49,708 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:49,708 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:52,226 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:52,226 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:53,830 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 10 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:53,830 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:56,350 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:56,350 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:46:58,872 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:46:58,872 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:01,386 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:01,386 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:03,904 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:03,904 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:06,427 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:06,427 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:08,023 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 23 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:08,023 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:10,529 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:10,529 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:13,048 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:13,048 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:15,565 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:15,565 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:18,084 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:18,084 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:19,673 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 33 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:19,673 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:22,188 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:22,188 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:23,793 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 35 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:23,793 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:26,309 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:26,309 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:28,824 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:28,824 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:30,408 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 23 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:30,408 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:32,920 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:32,920 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:35,421 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:35,421 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:37,007 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 14 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:37,007 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:39,508 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:39,508 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:42,060 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:42,060 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:43,651 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 39 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:43,651 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:46,168 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:46,168 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:48,679 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:48,679 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:50,266 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 23 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:50,266 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:52,790 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:52,790 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:55,304 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:55,304 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:56,898 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 35 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:56,898 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:47:59,401 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:47:59,401 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:00,994 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 35 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:00,994 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:03,504 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:03,504 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:06,024 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:06,024 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:08,531 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:08,531 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:11,047 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:11,047 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:12,648 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 25 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:12,648 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:15,163 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:15,163 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:17,667 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:17,667 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:19,257 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 24 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:19,257 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:21,772 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:21,772 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:24,280 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:24,280 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:25,872 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 39 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:25,872 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:28,382 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:28,382 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:30,890 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:30,890 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:33,404 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:33,404 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:35,013 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Error reading Chip IP and Version. Read 37 words instead of 5. The first 2 were: 0x0 and 0x0.. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:35,013 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:37,529 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:37,529 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:40,058 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:40,058 : INFO : P-Roc : Will retry creating PinPROC in 1s.
+2025-09-04 22:48:42,562 : WARNING : P-Roc : Failed to instantiate pinproc.PinPROC(3): Verify Chip ID took too long to receive data. Is your P/P3-Roc connected and powered up?
+2025-09-04 22:48:42,562 : INFO : P-Roc : Will retry creating PinPROC in 1s.
